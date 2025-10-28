@@ -1,16 +1,16 @@
 # FluxCD cloned repositories (these are separate GitHub repos)
-#fluxcd-infrastructure/
-#fluxcd-apps/
+fluxcd-infrastructure/
+fluxcd-apps/
 
 # OpenSpec (project management)
 openspec/
 
 # Windsurf (IDE config)
-#.windsurf/
+.windsurf/
 
 # IDE
-#.vscode/
-#.idea/
+.vscode/
+.idea/
 
 # OS
 .DS_Store
