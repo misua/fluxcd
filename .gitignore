@@ -1,0 +1,21 @@
+# FluxCD local development files
+fluxcd-infrastructure/
+fluxcd-apps/
+go-crud-api/
+
+# OpenSpec
+openspec/
+
+# Windsurf
+.windsurf/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
