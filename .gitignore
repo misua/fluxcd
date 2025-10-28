@@ -1,17 +1,16 @@
-# FluxCD local development files
-fluxcd-infrastructure/
-fluxcd-apps/
-go-crud-api/
+# FluxCD cloned repositories (these are separate GitHub repos)
+#fluxcd-infrastructure/
+#fluxcd-apps/
 
-# OpenSpec
+# OpenSpec (project management)
 openspec/
 
-# Windsurf
-.windsurf/
+# Windsurf (IDE config)
+#.windsurf/
 
 # IDE
-.vscode/
-.idea/
+#.vscode/
+#.idea/
 
 # OS
 .DS_Store
